@@ -8,7 +8,7 @@ The Goal column shows the cost of each project and Pledge column shows the
 amount of money made by each campaigns,using filter will help Louise to see relevant data information
 which will help Louise to check the outcomes and if that has any significant impact with country and time of the year
 
-![](Images/Picture1.png?raw=true)
+![](Images/Outcomes_vs_Goals.png?raw=true)
 
 
 ### Purpose
