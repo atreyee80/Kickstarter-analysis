@@ -67,13 +67,13 @@ Half of the campaign goals are less than £2,000,which is just over the 3rd quar
 From the "Outcomes Based on Launch Date" we can see that the parent category "Theater" is at highest success rate in the month of May and June,
 and at the same time the months of January,June,July and October  had same number of Failed Campaigns launched.
 
-![](Images/Theater_Outcomes_vs_Launch?raw=true)
+![](Resources/Theater_Outcomes_vs_Launch?raw=true)
 
 ### Analysis of Outcomes Based on Goals
 From the "Outcomes Based on Goals" we can see if the goal amount is less than 1000 the succesful rate is highest 76%,
 and as the goal amt increases the successful rate decreases,if the goal amount is between 15000 to 19999 the successful rate and failed rate is 50:50.
  
-![](Images/Outcomes_vs_Goals.png?raw=true)
+![](Resources/Outcomes_vs_Goals.png?raw=true)
 
 
 ### Challenges and Difficulties Encountered
@@ -89,7 +89,7 @@ It is challenging to classify live projects as either successful or failure even
 
    Theater is the most successful in the month of May and June.
    January,June,July and October has same number of Failed Campaigns.
-   ![](Images/Theater_Outcomes_vs_Launch?raw=true)
+   ![](Resources/Theater_Outcomes_vs_Launch?raw=true)
 
 
 - What can you conclude about the Outcomes based on Goals?
