@@ -8,7 +8,7 @@ The Goal column shows the cost of each project and Pledge column shows the
 amount of money made by each campaigns,using filter will help Louise to see relevant data information
 which will help Louise to check the outcomes and if that has any significant impact with country and time of the year
 
-![](Images/Outcomes_vs_Goals.png?raw=true)
+
 
 
 ### Purpose
@@ -33,7 +33,7 @@ It helps to conclude that 604 Kickstarter campaigns
 for plays in Great Britain, the "theater" category is the most successful.
 
 From the "Outcomes Based on Launch Date" we can see that the month of  May and June is the  greatest successful months ,
-so June seems to be better to launch the campaign. and at the same time the months of January,June,
+so June seems to be better to launch the campaign and at the same time the months of January,June,
 July and October  had same number of Failed Campaigns launched.
 
 Using Filter in the "Category Statistics" worksheet if we select only "Theater" at the parent category we can see that "successful plays is 694","successful music is 60" and 
@@ -67,10 +67,14 @@ Half of the campaign goals are less than £2,000,which is just over the 3rd quar
 From the "Outcomes Based on Launch Date" we can see that the parent category "Theater" is at highest success rate in the month of May and June,
 and at the same time the months of January,June,July and October  had same number of Failed Campaigns launched.
 
+![](Images/Theater_Outcomes_vs_Launch?raw=true)
+
 ### Analysis of Outcomes Based on Goals
 From the "Outcomes Based on Goals" we can see if the goal amount is less than 1000 the succesful rate is highest 76%,
 and as the goal amt increases the successful rate decreases,if the goal amount is between 15000 to 19999 the successful rate and failed rate is 50:50.
  
+![](Images/Outcomes_vs_Goals.png?raw=true)
+
 
 ### Challenges and Difficulties Encountered
 1. It is difficult to understand / interpret why some projects got cancelled. Was it because the project realized that the pledge would never match the goal? Or was it because of some other reason related to the project itself?
@@ -85,6 +89,8 @@ It is challenging to classify live projects as either successful or failure even
 
    Theater is the most successful in the month of May and June.
    January,June,July and October has same number of Failed Campaigns.
+   ![](Images/Theater_Outcomes_vs_Launch?raw=true)
+
 
 - What can you conclude about the Outcomes based on Goals?
   If the goal amount is less then the chances of successful rate is higher. 
